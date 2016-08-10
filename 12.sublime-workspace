@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"context",
+				"contexthwnd"
+			],
+			[
+				"tab",
+				"table.remove	(table [, pos])"
+			],
+			[
+				"for",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"table",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"carac",
+				"caractorLibPath"
+			],
+			[
+				"setf",
+				"love.graphics.setFont"
+			],
+			[
+				"newf",
+				"love.graphics.newFont"
+			],
+			[
+				"isd",
+				"love.keyboard.isDown"
+			],
+			[
+				"check",
+				"checkSkull"
+			],
+			[
+				"os",
+				"os.time	([table])"
+			],
+			[
+				"rad",
+				"love.math.setRandomSeed"
+			],
+			[
+				"we",
+				"while	while cond"
+			],
+			[
+				"dr",
+				"draw()	cell"
+			],
+			[
+				"setcl",
+				"love.graphics.setColor"
+			],
+			[
+				"gr",
+				"love.graphics.rectangle"
+			],
+			[
+				"new",
+				"love.graphics.newParticleSystem"
+			],
+			[
+				"upa",
+				"unpack	(list [, i [, j]])"
+			],
+			[
+				"ta",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"drawf",
+				"drawFromOpDeck"
+			],
+			[
+				"selfk",
+				"selfkill10"
+			],
+			[
+				"onAtta",
+				"onAttack"
+			],
+			[
+				"attack",
+				"attackweak"
+			],
+			[
+				"alway",
+				"cardsAlways_update"
+			],
+			[
+				"string",
+				"string.find	(s, pattern [, init [, plain]])"
+			],
+			[
+				"get",
+				"love.graphics.getWidth"
+			],
+			[
+				"rand",
+				"love.math.random"
+			],
+			[
+				"up",
+				"unpack	(list [, i [, j]])"
+			],
+			[
+				"cost_",
+				"cost_lvl0"
+			],
+			[
+				"inter",
+				"interceptTab"
+			],
+			[
+				"minion",
+				"minionTab"
+			],
+			[
+				"abilit",
+				"abilities"
+			],
+			[
+				"upperT",
+				"upperTurnOver"
+			],
+			[
+				"mouse",
+				"love.mouse.getPosition"
+			],
+			[
+				"refill",
+				"refillCard"
+			],
+			[
+				"rado",
+				"love.math.random"
+			],
+			[
+				"push",
+				"love.graphics.push"
+			],
+			[
+				"getpo",
+				"love.mouse.getPosition"
+			],
+			[
+				"dra",
+				"love.graphics.draw"
+			],
+			[
+				"setc",
+				"love.graphics.setColor"
+			],
+			[
+				"set",
+				"love.graphics.setFont"
+			],
+			[
+				"can",
+				"love.graphics.newCanvas"
+			],
+			[
+				"pic_",
+				"pic_front"
+			],
+			[
+				"draw",
+				"love.graphics.draw"
+			],
+			[
+				"ve",
+				"vec4"
+			],
+			[
+				"vec",
+				"vec2"
+			],
+			[
+				"rect",
+				"love.graphics.rectangle"
+			],
+			[
+				"v",
+				"vec4"
+			],
+			[
+				"setsh",
+				"love.graphics.setShader"
+			],
+			[
+				"shad",
+				"love.graphics.newShader"
+			],
+			[
+				"to",
+				"tostring	(e)"
+			],
+			[
+				"print",
+				"love.graphics.print"
+			],
+			[
+				"setb",
+				"love.graphics.setBackgroundColor"
+			],
+			[
+				"fon",
+				"love.graphics.setFont"
+			],
+			[
+				"font",
+				"love.graphics.newFont"
+			],
+			[
+				"pri",
+				"love.graphics.print"
+			],
+			[
+				"func",
+				"function	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Love2D"
+			],
+			[
+				"buld",
+				"Build: Build"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"Love2D",
+			"love2d",
+			"build",
+			"Build",
+			"Love2D",
+			"Love2d",
+			"love2d",
+			"build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Love2D Project/chinese input/chineseinput.lua",
+		"/F/Love2D Project/chinese input/caractorLib.lua",
+		"/C/Users/Administrator/Desktop/main.lua",
+		"/F/Love2D Project/chinese input/conf.lua",
+		"/F/Love2D Project/chinese input/alien.lua",
+		"/F/Love2D Project/chinese input/main.lua",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.019/AndroidManifest.xml",
+		"/C/Users/Administrator/Desktop/caractorLib.lua",
+		"/F/Love2D Project/socket learn/tcpServer.lua",
+		"/F/Love2D Project/socket learn/tcpClient.lua",
+		"/F/Love2D Project/socket learn/conf.lua",
+		"/F/Love2D Project/socket learn/client.lua",
+		"/F/Love2D Project/war of omens/abilities.lua",
+		"/F/Love2D Project/war of omens/upper.lua",
+		"/F/Love2D Project/war of omens/delay.lua",
+		"/F/Love2D Project/war of omens/frame_basic.lua",
+		"/F/Love2D Project/war of omens/conf.lua",
+		"/F/Love2D Project/war of omens/frame_util.lua",
+		"/F/Love2D Project/war of omens/input.lua",
+		"/F/Love2D Project/war of omens/frameWork.lua",
+		"/F/Love2D Project/war of omens/frame_ab.lua",
+		"/F/Love2D Project/war of omens/animation.lua",
+		"/F/Love2D Project/war of omens/card_cls.lua",
+		"/F/Love2D Project/war of omens/lower.lua",
+		"/F/Love2D Project/war of omens/main.lua",
+		"/F/Love2D Project/war of omens/loadCards.lua",
+		"/F/Love2D Project/war of omens/ai.lua",
+		"/F/Love2D Project/war of omens/scr/frame_ab.lua",
+		"/C/Users/Administrator/Desktop/程序/hge-1.81/tools/particleed/particle8.psi",
+		"/F/Love2D Project/war of omens/load.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/F/Love2D Project/war of omens/auto.lua",
+		"/F/Love2D Project/war of omens/gameLogic.lua",
+		"/F/Love2D Project/war of omens/scr/abilities.lua",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.796/conf.lua",
+		"/F/Love2D Project/shader learn/conf.lua",
+		"/F/Love2D Project/shader learn/main.lua",
+		"/F/Love2D Project/shader learn/res/shaders/shade2.glsl",
+		"/F/Love2D Project/shader learn/res/shaders/shade1.glsl",
+		"/F/Love2D Project/module/main.lua",
+		"/F/Love2D Project/module/mainEX.lua",
+		"/F/Love2D Project/module/main with frame.lua",
+		"/F/Love2D Project/module/scr/scene/game.lua",
+		"/F/Love2D Project/module/scr/scene/help.lua",
+		"/F/Love2D Project/module/scr/scene/pause.lua",
+		"/F/Love2D Project/module/scr/scene/start.lua",
+		"/F/Love2D Project/module/scr/scene/ending.lua",
+		"/F/Love2D Project/module/scr/scene/credit.lua",
+		"/F/Love2D Project/module/scr/scene/config.lua",
+		"/F/Love2D Project/module/scr/scene/end.lua",
+		"/F/Love2D Project/module/conf.lua",
+		"/C/Users/Administrator/Desktop/程序/Love Libs/astray-master/astray-master/conf.lua",
+		"/C/Users/Administrator/Desktop/程序/Love Libs/astray-master/astray-master/main.lua",
+		"/F/Love2D Project/main.lua",
+		"/F/Love2D Project/conf.lua",
+		"/C/Users/Administrator/Desktop/Love Libs/Jumper-Benchmark-master/Jumper-Benchmark-master/run.lua",
+		"/C/Users/Administrator/Desktop/a.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"find_library",
+			"find_library_helper",
+			" ",
+			" '",
+			"' = '",
+			" = '",
+			"=>",
+			"print",
+			"client",
+			"lastData",
+			"ip",
+			"lastdata",
+			"confirmed",
+			"lastData",
+			"return",
+			"lua",
+			"print",
+			"	{\"",
+			"{\"",
+			" {\"",
+			"{\"",
+			"ai.",
+			"sub",
+			"refillbank",
+			"card.where",
+			"show.",
+			"default",
+			"defaut",
+			"frame.upper.hand.defautCardX",
+			"defaut",
+			"losernd",
+			"print",
+			"you",
+			"discard",
+			"lastch",
+			"onDie",
+			"discard",
+			"input",
+			"print",
+			"frame.you",
+			"herodw",
+			"where",
+			"attackweak",
+			"shield",
+			"refillba",
+			"sheph",
+			"sh",
+			"bank.refill",
+			"\"onTurnStart\",a.heroDraw",
+			"rnd=",
+			"self.hero",
+			"self",
+			"recode",
+			"reset",
+			"ab.actionMove",
+			"actionMove",
+			"attackcan",
+			"lower",
+			"hp=100",
+			"#weakest==1",
+			":",
+			"：",
+			"cardplay",
+			"getRnd",
+			"size",
+			"insertd",
+			"reset",
+			"print",
+			"test",
+			"cards",
+			"print",
+			"card[i]",
+			"v[i]",
+			"mark",
+			"\"持续\"",
+			"lua",
+			"drawcard",
+			"print",
+			"losemoney",
+			"frame.heroDraw",
+			"draw3",
+			"a.draw3",
+			"draw3",
+			"reset",
+			":",
+			"belongTo",
+			"frame.me",
+			"frame.self",
+			",\"onPlay\",a.reUse",
+			"print",
+			"card",
+			"print",
+			"moveto",
+			":",
+			"print",
+			"upper",
+			"block",
+			"card.",
+			":",
+			"target",
+			"heal",
+			"替换",
+			"drawf",
+			"record",
+			"仪式",
+			"draw",
+			"add",
+			"weak",
+			"selecttab",
+			"print",
+			"lastche",
+			"pre",
+			"choose",
+			"draw3",
+			"refill",
+			"draw3",
+			".me",
+			"copy",
+			"attackb",
+			"local tab",
+			"where",
+			"lastCheck",
+			"show",
+			"draw3",
+			"reset",
+			"resource",
+			"resourece"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"='",
+			"=",
+			"	{1,\"",
+			"{\"1\",\"",
+			"delay.",
+			"card.belongTo",
+			"default",
+			"me",
+			"onDiscard",
+			"op",
+			"\"onTurnOver\",a.heroDraw",
+			"me.hero",
+			"me",
+			"record",
+			"frame.ab.actionMove",
+			"ab.actionMove",
+			"me",
+			"weakest.hp=100",
+			".",
+			"cards[i]",
+			"unpack(v[i])",
+			"make",
+			"\"状态\"",
+			"a.heroDraw",
+			"frame.heroDraw",
+			"where",
+			"card.belongTo",
+			"card",
+			"",
+			"frame",
+			"lower",
+			"card:",
+			".",
+			".you",
+			":attack",
+			"onSlaught",
+			"green",
+			"upper",
+			"",
+			"绿",
+			"\"green\"",
+			"green",
+			"upper",
+			"绿",
+			"nil",
+			"",
+			"hero",
+			"hand",
+			"field",
+			"deck",
+			"bank",
+			"cards",
+			"upper.",
+			"deck",
+			"hero",
+			"hand",
+			"field",
+			"bank",
+			"lower.",
+			"upper",
+			"lower",
+			"upper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "cp936",
+							"function_name_status_row": 3,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 93.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "12.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
